@@ -4,7 +4,7 @@ The python script `script.py` extract from already downloaded archive file the e
 
 We will then show the distribution of the amounts starting by either __1__, __2__, __3__, __4__, __5__, __6__, __7__, __8__ and __9__.
 
-It will allow us to answer the question: does ethereum's transaction value follow (bendford's law)[https://en.wikipedia.org/wiki/Benford%27s_law] ?
+It will allow us to answer the question: does ethereum's transaction value follow [bendford's law](https://en.wikipedia.org/wiki/Benford%27s_law) ?
 
 ## Why ?
 
