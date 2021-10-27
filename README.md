@@ -22,6 +22,10 @@ You will need python3 installed.
 ```bash
 $ python3 script.py
 ```
+or
+```bash
+$ python3 script.py &> output.txt &
+```
 
 ## Result
 
